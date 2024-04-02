@@ -1,0 +1,54 @@
+C:\Users\L24Y12W27\source\repos\Final project\Final project\bin\Debug\net6.0-windows\Final project.exe
+C:\Users\L24Y12W27\source\repos\Final project\Final project\bin\Debug\net6.0-windows\Final project.deps.json
+C:\Users\L24Y12W27\source\repos\Final project\Final project\bin\Debug\net6.0-windows\Final project.runtimeconfig.json
+C:\Users\L24Y12W27\source\repos\Final project\Final project\bin\Debug\net6.0-windows\Final project.dll
+C:\Users\L24Y12W27\source\repos\Final project\Final project\bin\Debug\net6.0-windows\Final project.pdb
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final project.csproj.AssemblyReference.cache
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final_project.Form1.resources
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final project.csproj.GenerateResource.cache
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final project.AssemblyInfoInputs.cache
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final project.AssemblyInfo.cs
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final project.csproj.CoreCompileInputs.cache
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final project.dll
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\refint\Final project.dll
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final project.pdb
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final project.genruntimeconfig.cache
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\ref\Final project.dll
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final_project.Dashboard.resources
+C:\Users\L24Y12W27\source\repos\Final project\Final project\obj\Debug\net6.0-windows\Final_project.Properties.Resources.resources
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\Final project.exe
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\Final project.deps.json
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\Final project.runtimeconfig.json
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\Final project.dll
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\Final project.pdb
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\ReaLTaiizor.dll
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Code\Final project\Final project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.csproj.AssemblyReference.cache
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.AdminControls.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.Admin_ProfileApproval.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.Dashboard.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.Dashboard_Registration.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.Form1.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.ProfileMenu.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.Properties.Resources.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\RoundTextBoxProject.RoundControl.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.Verification.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.csproj.GenerateResource.cache
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.AssemblyInfoInputs.cache
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.AssemblyInfo.cs
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.csproj.CoreCompileInputs.cache
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.csproj.CopyComplete
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.dll
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\refint\Final project.dll
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.pdb
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final project.genruntimeconfig.cache
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\ref\Final project.dll
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.AdminTab.Admin_ProfileList.resources
+D:\Code\Final project\Final project\obj\Debug\net6.0-windows\Final_project.AdminTab.EditProfile.resources

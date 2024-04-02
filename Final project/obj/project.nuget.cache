@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oo/70Mn9apwxki09eU3l+pSU0Jtp8Tns1oiYrHKO2CW3TmGu57qDeEErWzxwIK4VOxWJ7BfNcLHG2UlhZHWLg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Final project\\Final project\\Final project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\realtaiizor\\3.8.0.2\\realtaiizor.3.8.0.2.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

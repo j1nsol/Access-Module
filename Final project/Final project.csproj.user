@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AdminTab\AdminControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminTab\Admin_ProfileApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminTab\Admin_ProfileList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminTab\EditProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard_Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProfileMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RoundControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Verification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
